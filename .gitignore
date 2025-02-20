@@ -1,0 +1,25 @@
+# Ignore PlatformIO build and dependency directories
+.pio/
+.build/
+
+# Ignore project-specific settings and environment files
+.vscode/
+*.code-workspace
+
+# Ignore compiled binaries and firmware
+*.elf
+*.bin
+*.hex
+*.map
+
+# Ignore temporary files
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+
+# Ignore PlatformIO dependency management
+.libdeps/
